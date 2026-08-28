@@ -13,6 +13,8 @@ public class MetodoConstructor {
     public static void main(String[] args) {
         animalesVoladores volador1 = new animalesVoladores("agila", true);
         animalesVoladores volador2 = new animalesVoladores("colibri", false);
+        animalesVoladores volador3 = new animalesVoladores(23, "paloma");
+        animalesVoladores volador4 = new animalesVoladores(65, "Loro");
         
                 
     }
