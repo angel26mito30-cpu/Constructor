@@ -23,6 +23,9 @@ public class MetodoConstructor {
         animalesTerrestres terrestre1 = new animalesTerrestres("leon", true);
         animalesTerrestres terrestre2 = new animalesTerrestres("jirafa", false);
         animalesTerrestres terrestre3 = new animalesTerrestres("avestruz", true);
+        animalesTerrestres terrestre4 = new animalesTerrestres("araña", 57, false);
+        animalesTerrestres terrestre5 = new animalesTerrestres("hormiga", 5, false);
+        
         
                 
                 
