@@ -15,7 +15,10 @@ public class MetodoConstructor {
         animalesVoladores volador2 = new animalesVoladores("colibri", false);
         animalesVoladores volador3 = new animalesVoladores(23, "paloma");
         animalesVoladores volador4 = new animalesVoladores(65, "Loro");
+        animalesVoladores volador5 = new animalesVoladores("buho", 50, true);
+        animalesVoladores volador6 = new animalesVoladores("murcielago", 20, false);
         
+                
                 
     }
 }
