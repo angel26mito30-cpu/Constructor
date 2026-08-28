@@ -20,6 +20,11 @@ public class MetodoConstructor {
         animalesVoladores volador7 = new animalesVoladores("abeja", true);
         animalesVoladores volador8 = new animalesVoladores("mariposa", 10, false);
         
+        animalesTerrestres terrestre1 = new animalesTerrestres("leon", true);
+        animalesTerrestres terrestre2 = new animalesTerrestres("jirafa", false);
+        animalesTerrestres terrestre3 = new animalesTerrestres("avestruz", true);
+        
+                
                 
                 
     }
