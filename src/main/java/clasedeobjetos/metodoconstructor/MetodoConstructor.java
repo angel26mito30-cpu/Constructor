@@ -11,6 +11,9 @@ package clasedeobjetos.metodoconstructor;
 public class MetodoConstructor {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        animalesVoladores volador1 = new animalesVoladores("agila", true);
+        animalesVoladores volador2 = new animalesVoladores("colibri", false);
+        
+                
     }
 }
